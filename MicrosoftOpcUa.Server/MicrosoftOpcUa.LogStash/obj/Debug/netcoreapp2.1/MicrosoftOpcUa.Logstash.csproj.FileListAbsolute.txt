@@ -1,0 +1,16 @@
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.deps.json
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.runtimeconfig.json
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.runtimeconfig.dev.json
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.dll
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.pdb
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.Core.dll
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.Service.dll
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.Core.pdb
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.Service.pdb
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.csprojAssemblyReference.cache
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.csproj.CoreCompileInputs.cache
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.AssemblyInfoInputs.cache
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.AssemblyInfo.cs
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.csproj.CopyComplete
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.dll
+E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.LogStash\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.Logstash.pdb

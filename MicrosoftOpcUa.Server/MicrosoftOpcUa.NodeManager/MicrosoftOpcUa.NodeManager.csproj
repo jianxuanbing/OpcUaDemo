@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Microsoft.OpcUa.DataProvider.Windows\MicrosoftOpcUa.DataProvider.Windows.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.Configuration\MicrosoftOpcUa.Configuration.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.Core\MicrosoftOpcUa.Core.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.DataProvider.CentOs\MicrosoftOpcUa.DataProvider.CentOs.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.DataProvider.MacOs\MicrosoftOpcUa.DataProvider.MacOs.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.ModelDesign\MicrosoftOpcUa.ModelDesign.csproj" />
+    <ProjectReference Include="..\MicrosoftOpcUa.Server.Publisher\MicrosoftOpcUa.Publisher.csproj" />
+    <ProjectReference Include="..\Opc.Ua.Configuration\Opc.Ua.Configuration.csproj" />
+    <ProjectReference Include="..\Opc.Ua.Core\Opc.Ua.Core.csproj" />
+    <ProjectReference Include="..\Opc.Ua.Server\Opc.Ua.Server.csproj" />
+  </ItemGroup>
+
+</Project>

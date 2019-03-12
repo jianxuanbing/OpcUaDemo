@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MicrosoftOpcUa.ModelDesign\MicrosoftOpcUa.ModelDesign.csproj" />
+    <ProjectReference Include="..\Opc.Ua.Server\Opc.Ua.Server.csproj" />
+  </ItemGroup>
+
+</Project>
