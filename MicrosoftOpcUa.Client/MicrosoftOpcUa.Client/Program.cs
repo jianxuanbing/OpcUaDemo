@@ -2,46 +2,68 @@
 using MicrosoftOpcUa.Client.Utility;
 
 using Opc.Ua;
-using Opc.Ua.Client;
 using System;
-using System.IO;
-using System.Linq;
+using System.Collections.Concurrent;
 using System.Threading;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace MicrosoftOpcUa.Client
 {
     class Program
     {
-        private static OpcUaClient client;
-        static void Main(string[] args)
+        private static OpcUaClient _client;
+        private static IConfiguration _configuration;
+
+        static async Task Main(string[] args)
         {
+            
             Console.Title = "HuaWei OPC_UA Client";
-            Task result = ConnectAsync();
-            result.ContinueWith((task) =>
+            var connectionStrs = GetConfig().GetSection("OpcConnectionStrings").Get<string[]>();
+            Console.WriteLine($"当前主线程ID: {Thread.CurrentThread.ManagedThreadId}");
+            foreach (var connectionStr in connectionStrs)
             {
-                Console.WriteLine("Connect to  opc.tcp://localhost:62567 success!");
-                SubscriberManager.OpcUaClient = client;
-                SubscriberManager.RegistSubscriber();
-             
-            });
+                ThreadPool.QueueUserWorkItem(async obj =>
+                {
+                    Console.WriteLine($"当前 {connectionStr} 子线程ID: {Thread.CurrentThread.ManagedThreadId}");
+                    var client = await ConnectAsync(connectionStr);
+                    Console.WriteLine($"Connect to {connectionStr} success!");
+                    SubscriberManager.Clients[connectionStr] = client;
+                    SubscriberManager.RegistSubscriber(client);
+                });                
+            }
             Console.WriteLine("Please enter any key to quit!");
             Console.ReadLine();
             Disconnect();
         }
 
-        private static async Task ConnectAsync()
+        private static async Task<OpcUaClient> ConnectAsync(string connectionStr)
         {
-            client = new OpcUaClient
+            var client=new OpcUaClient()
             {
                 UserIdentity = new UserIdentity(new AnonymousIdentityToken())
             };
-            await client.ConnectServer("opc.tcp://localhost:62567");
+            await client.ConnectServer(connectionStr);
+            return client;
         }
 
         private static void Disconnect()
         {
-            client.Disconnect();
+            foreach (var client in SubscriberManager.Clients)
+            {
+                client.Value.Disconnect();
+            }
+        }
+
+        private static IConfiguration GetConfig()
+        {
+            if (_configuration == null)
+            {
+                var builder = new ConfigurationBuilder().AddJsonFile("appsettings.json");
+                _configuration = builder.Build();
+                
+            }
+            return _configuration;
         }
     }
 }

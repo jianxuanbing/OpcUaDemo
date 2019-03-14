@@ -46,7 +46,7 @@ namespace MicrosoftOpcUa.Client.Subscribers
                 if (!fileNames.Contains($"{i}.part.log"))
                 {
                     Utility.Screen.Log($"Lost File:{i}.part.log, Receving...", ConsoleColor.Yellow);
-                    SubscriberManager.OpcUaClient.WriteNode<string>("ns=2;i=15023", i.ToString());
+                    SubscriberManager.Clients.FirstOrDefault().Value.WriteNode<string>("ns=2;i=15023", i.ToString());
                     Thread.Sleep(1000);
                 }
             }
@@ -55,7 +55,7 @@ namespace MicrosoftOpcUa.Client.Subscribers
                 Utility.Screen.Log($"All File Reveiced.", ConsoleColor.Green);
             }
             Thread.Sleep(5000);
-            var value = SubscriberManager.OpcUaClient.ReadNode<string>(NodeId);
+            var value = SubscriberManager.Clients.FirstOrDefault().Value.ReadNode<string>(NodeId);
             long.TryParse(value, out count);
             if (count > 0)
             {

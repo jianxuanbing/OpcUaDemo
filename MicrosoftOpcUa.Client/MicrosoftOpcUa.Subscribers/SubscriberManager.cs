@@ -2,6 +2,7 @@
 using MicrosoftOpcUa.Client.Utility;
 using Opc.Ua;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Text;
 
@@ -9,13 +10,15 @@ namespace MicrosoftOpcUa.Client.Subscribers
 {
     public static class SubscriberManager
     {
-        public static OpcUaClient OpcUaClient;
+        //public static OpcUaClient OpcUaClient;
 
-        public static void RegistSubscriber()
+        public static ConcurrentDictionary<string, OpcUaClient> Clients = new ConcurrentDictionary<string, OpcUaClient>();
+
+        public static void RegistSubscriber(OpcUaClient client)
         {
-            OpcUaClient.Subscrib(new SystemLogSubscriber());
-            OpcUaClient.Subscrib(new PerformanceSubscriber());
-            OpcUaClient.Subscrib(new SystemLogCountSubscriber());
+            client.Subscrib(new SystemLogSubscriber());
+            client.Subscrib(new PerformanceSubscriber());
+            client.Subscrib(new SystemLogCountSubscriber());
         }
  
         private static void Subscrib(this OpcUaClient client, IEventSubscriber subscriber)
