@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\v-fenx\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\v-fenx\\.nuget\\packages",
+      "C:\\Users\\jianx\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jianx\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

@@ -16,3 +16,11 @@ E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netc
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.AssemblyInfo.cs
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.dll
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.deps.json
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.csproj.CoreCompileInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.AssemblyInfoInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.AssemblyInfo.cs
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.MacOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.MacOs.pdb

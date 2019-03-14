@@ -1,5 +1,5 @@
 ﻿using MicrosoftOpcUa.Core;
-using MicrosoftOpcUa.Logstash.Core.Extension;
+//using MicrosoftOpcUa.Logstash.Core.Extension;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -28,7 +28,7 @@ namespace MicrosoftOpcUa.Publisher
             {
                 var file = files.FirstOrDefault();
                 var text = File.ReadAllText(file.FullName);
-                text = Base64.EncodeBase64(text);
+                //text = Base64.EncodeBase64(text);
                 MachineState.Log.Line.Value = text;
                 File.Delete(file.FullName.Replace("target", "target_backup"));
                 File.Move(file.FullName,
@@ -46,7 +46,7 @@ namespace MicrosoftOpcUa.Publisher
             {
                 index = MachineState.Log.Index.Value;
                 var text = File.ReadAllText($"E:/target_backup/{index}.part.log");
-                MachineState.Log.Line.Value = Base64.EncodeBase64(text);
+                //MachineState.Log.Line.Value = Base64.EncodeBase64(text);
             }
             var count = new DirectoryInfo("E:/target_backup/").GetFiles()?.Count();
             MachineState.Log.Count.Value = count.ToString();

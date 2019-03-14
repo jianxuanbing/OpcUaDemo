@@ -17,7 +17,7 @@ namespace MicrosoftOpcUa.Publisher
             var machineLogPublisher = new MachineLogPublisher();
             machineLogPublisher.Regist(machineState, systemContext);
             Publishers.Add(machineLogPublisher);
-            Logstash.Service.Logstash.Startup();
+            //Logstash.Service.Logstash.Startup();
 
             //regist machine performance publisher push.
             var machinePerformancePublisher = new MachinePerformancePublisher();

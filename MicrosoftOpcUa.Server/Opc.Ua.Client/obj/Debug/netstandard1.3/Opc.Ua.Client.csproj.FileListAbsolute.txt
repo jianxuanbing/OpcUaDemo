@@ -46,3 +46,15 @@ E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Cl
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.csproj.CopyComplete
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.dll
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\bin\Debug\netstandard1.3\Opc.Ua.Client.deps.json
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\bin\Debug\netstandard1.3\Opc.Ua.Client.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\bin\Debug\netstandard1.3\Opc.Ua.Client.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.csprojAssemblyReference.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.csproj.CoreCompileInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.AssemblyInfoInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.AssemblyInfo.cs
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.csproj.CopyComplete
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Client\obj\Debug\netstandard1.3\Opc.Ua.Client.pdb

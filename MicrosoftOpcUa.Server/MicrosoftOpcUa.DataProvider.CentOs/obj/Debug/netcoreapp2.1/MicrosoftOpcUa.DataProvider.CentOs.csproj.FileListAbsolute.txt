@@ -16,3 +16,11 @@ E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\net
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.AssemblyInfo.cs
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.dll
 E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.deps.json
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.csproj.CoreCompileInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.AssemblyInfoInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.AssemblyInfo.cs
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Debug\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.pdb

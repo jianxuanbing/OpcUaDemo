@@ -40,3 +40,15 @@ E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Op
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.csproj.CopyComplete
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.dll
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\bin\Debug\netstandard2.0\Opc.Ua.Configuration.deps.json
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\bin\Debug\netstandard2.0\Opc.Ua.Configuration.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\bin\Debug\netstandard2.0\Opc.Ua.Configuration.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\bin\Debug\netstandard2.0\Opc.Ua.Core.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.csprojAssemblyReference.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.csproj.CoreCompileInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.AssemblyInfoInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.AssemblyInfo.cs
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.csproj.CopyComplete
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Configuration\obj\Debug\netstandard2.0\Opc.Ua.Configuration.pdb

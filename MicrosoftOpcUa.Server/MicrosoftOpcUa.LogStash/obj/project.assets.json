@@ -229,28 +229,16 @@
         "runtime": {
           "bin/placeholder/MicrosoftOpcUa.Logstash.Core.dll": {}
         }
-      },
-      "MicrosoftOpcUa.Logstash.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "dependencies": {
-          "MicrosoftOpcUa.Logstash.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MicrosoftOpcUa.Logstash.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MicrosoftOpcUa.Logstash.Service.dll": {}
-        }
       }
     }
   },
   "libraries": {
     "Microsoft.NETCore.App/2.1.0": {
-      "sha512": "AvT774nTFgU8cYcGO9j1EMwuayKslxqYTurg32HGpWa2hEYNuW2+XgYVVNcZe6Ndbr84QX6fwaOZfd5n+1m2OA==",
+      "sha512": "JNHhG+j5eIhG26+H721IDmwswGUznTwwSuJMFe/08h0X2YarHvA15sVAvUkA/2Sp3W0ENNm48t+J7KTPRqEpfA==",
       "type": "package",
       "path": "microsoft.netcore.app/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
@@ -512,10 +500,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.1.0": {
-      "sha512": "f/47I60Wg3SrveTvnecCQhCZCAMYlUujWF15EQ/AZTqF/54qeEJjbCIAxKcZI8ToUYzSg6JdfrHggsgjCyCE9Q==",
+      "sha512": "vMn8V3GOp/SPOG2oE8WxswzAWZ/GZmc8EPiB3vc2EZ6us14ehXhsvUFXndYopGNSjCa9OdqC6L6xStF1KyUZnw==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -525,10 +514,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
-      "sha512": "p50yZYKzhH64lmArJgoKjtvsNehECa+/sAuOQzZh5uDNBTbRKxjN8IXP1e517xdVsgrFcSNxSEVDKZIOWVjGcQ==",
+      "sha512": "vBUwNihtLUVS2HhO6WocYfAktRmfFihm6JB8/sJ53caVW+AelvbnYpfiGzaZDpkWjN6vA3xzOKPu9Vu8Zz3p8Q==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -538,10 +528,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
-      "sha512": "fS9D8a+y55n6mHMbNqgHXaPGkjmpVH9h97OyrBxsCuo3Z8aQaFMJ5xIfmzji2ntUd/3truhMbSgSfIelHOkQpg==",
+      "sha512": "o0PRql5qOHFEY3d1WvzE+T7cMFKtOsWLMg8L1oTeGNnI4u5AzOj8o6AdZT3y2GxFA1DAx7AQ9qZjpCO2/bgZRw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -568,10 +559,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "etaYwrLZQUS+b3UWTpCnUggd6SQ/ZIkZ5pHnoR7+dIWt/wp2Rv3CvMKOZISsrt7FYCHKwCxfcepuuyEWkQxADg==",
+      "sha512": "x188gIZXOwFXkPXyGavEcPGcR6RGvjFOES2QzskN4gERZjWPN34qhRsZVMC0CLJfQLGSButarcgWxPPM4vmg0w==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -711,10 +703,11 @@
       ]
     },
     "Newtonsoft.Json/12.0.1": {
-      "sha512": "jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
       "type": "package",
       "path": "newtonsoft.json/12.0.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
@@ -752,53 +745,50 @@
       "type": "project",
       "path": "../MicrosoftOpcUa.LogStash.Core/MicrosoftOpcUa.Logstash.Core.csproj",
       "msbuildProject": "../MicrosoftOpcUa.LogStash.Core/MicrosoftOpcUa.Logstash.Core.csproj"
-    },
-    "MicrosoftOpcUa.Logstash.Service/1.0.0": {
-      "type": "project",
-      "path": "../MicrosoftOpcUa.Logstash.Service/MicrosoftOpcUa.Logstash.Service.csproj",
-      "msbuildProject": "../MicrosoftOpcUa.Logstash.Service/MicrosoftOpcUa.Logstash.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.Logstash.Service\\MicrosoftOpcUa.Logstash.Service.csproj",
       "Microsoft.NETCore.App >= 2.1.0",
-      "MicrosoftOpcUa.Logstash.Core >= 1.0.0",
-      "MicrosoftOpcUa.Logstash.Service >= 1.0.0"
+      "MicrosoftOpcUa.Logstash.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "/Users/xufenghui/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\jianx\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.LogStash/MicrosoftOpcUa.Logstash.csproj",
+      "projectUniqueName": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.LogStash\\MicrosoftOpcUa.Logstash.csproj",
       "projectName": "MicrosoftOpcUa.Logstash",
-      "projectPath": "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.LogStash/MicrosoftOpcUa.Logstash.csproj",
-      "packagesPath": "/Users/xufenghui/.nuget/packages/",
-      "outputPath": "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.LogStash/obj",
+      "projectPath": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.LogStash\\MicrosoftOpcUa.Logstash.csproj",
+      "packagesPath": "C:\\Users\\jianx\\.nuget\\packages\\",
+      "outputPath": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.LogStash\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/xufenghui/.config/NuGet/NuGet.Config"
+        "C:\\Users\\jianx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.LogStash.Core/MicrosoftOpcUa.Logstash.Core.csproj": {
-              "projectPath": "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.LogStash.Core/MicrosoftOpcUa.Logstash.Core.csproj"
+            "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.LogStash.Core\\MicrosoftOpcUa.Logstash.Core.csproj": {
+              "projectPath": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.LogStash.Core\\MicrosoftOpcUa.Logstash.Core.csproj"
             },
-            "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.Logstash.Service/MicrosoftOpcUa.Logstash.Service.csproj": {
-              "projectPath": "/Users/xufenghui/代码/Microsoft-Private/huawei/MicrosoftOpcUa.Server/MicrosoftOpcUa.Logstash.Service/MicrosoftOpcUa.Logstash.Service.csproj"
+            "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.Logstash.Service\\MicrosoftOpcUa.Logstash.Service.csproj": {
+              "projectPath": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.Logstash.Service\\MicrosoftOpcUa.Logstash.Service.csproj"
             }
           }
         }
@@ -826,5 +816,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到项目“I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.Logstash.Service\\MicrosoftOpcUa.Logstash.Service.csproj”。请检查项目引用是否有效以及项目文件是否存在。",
+      "libraryId": "I:\\MS\\Git\\OpcUaDemo\\MicrosoftOpcUa.Server\\MicrosoftOpcUa.Logstash.Service\\MicrosoftOpcUa.Logstash.Service.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }

@@ -32,3 +32,12 @@ E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
 E:\huawei\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.deps.json
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\bin\Debug\netstandard1.3\Opc.Ua.Core.pdb
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csprojAssemblyReference.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.csproj.CoreCompileInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfoInputs.cache
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.AssemblyInfo.cs
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.dll
+I:\MS\Git\OpcUaDemo\MicrosoftOpcUa.Server\Opc.Ua.Core\obj\Debug\netstandard1.3\Opc.Ua.Core.pdb

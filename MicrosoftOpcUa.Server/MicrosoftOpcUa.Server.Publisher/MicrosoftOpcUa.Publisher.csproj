@@ -7,7 +7,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Microsoft.OpcUa.DataProvider.Windows\MicrosoftOpcUa.DataProvider.Windows.csproj" />
     <ProjectReference Include="..\MicrosoftOpcUa.Core\MicrosoftOpcUa.Core.csproj" />
-    <ProjectReference Include="..\MicrosoftOpcUa.Logstash.Service\MicrosoftOpcUa.Logstash.Service.csproj" />
   </ItemGroup>
 
 </Project>

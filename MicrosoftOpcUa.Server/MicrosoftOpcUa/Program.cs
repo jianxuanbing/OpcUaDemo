@@ -1,4 +1,4 @@
-﻿using MicrosoftOpcUa.Logstash.Service;
+﻿//using MicrosoftOpcUa.Logstash.Service;
 using Opc.Ua;
 using Opc.Ua.Configuration;
 using Opc.Ua.Server;
