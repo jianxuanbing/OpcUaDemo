@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="opcuaserver" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\huawei\\MicrosoftOpcUa\.Server\\MicrosoftOpcUa\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>

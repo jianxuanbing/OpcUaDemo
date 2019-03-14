@@ -9,6 +9,7 @@
     <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>Microsoft MCS SI-Domain.pfx</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\MicrosoftOpcUa.NodeManager\MicrosoftOpcUa.NodeManager.csproj" />

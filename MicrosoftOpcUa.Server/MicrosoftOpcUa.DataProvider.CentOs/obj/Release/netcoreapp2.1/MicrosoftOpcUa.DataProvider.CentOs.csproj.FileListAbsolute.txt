@@ -1,9 +1,0 @@
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.deps.json
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.dll
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\bin\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.pdb
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.csprojAssemblyReference.cache
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.csproj.CoreCompileInputs.cache
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.AssemblyInfoInputs.cache
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.AssemblyInfo.cs
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.dll
-E:\huawei\MicrosoftOpcUa.Server\MicrosoftOpcUa.DataProvider.CentOs\obj\Release\netcoreapp2.1\MicrosoftOpcUa.DataProvider.CentOs.pdb

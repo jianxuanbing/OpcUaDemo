@@ -1,9 +1,0 @@
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\bin\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.deps.json
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\bin\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.dll
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.csproj.CoreCompileInputs.cache
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.AssemblyInfoInputs.cache
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.AssemblyInfo.cs
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\bin\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.pdb
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.dll
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.pdb
-E:\Source\Walle.LocalLogstash\Walle.LocalLogstash.Core\obj\Debug\netcoreapp2.1\Walle.LocalLogstash.Core.csprojAssemblyReference.cache
